@@ -1,0 +1,33 @@
+Lembretes:
+
+* Não utilizar nome com acento e espaço em branco nos nomes dos arquivos e nome de variável;
+
+* Em operações matemáticas, podemos utilizar quantos parenteses quisermos para agrupar contas.
+
+Termos:
+
+Variável
+Utilizado para guardar valores na memória RAM que serão utilizados mais tarde.
+
+CONSTANTE
+Não pode mudar de valor se for mudar o endereço na memória. 
+Mas se for um objeto, pode mudar suas propriedades.
+
+Memória RAM
+Local para guardar informações que não persistem após o fechamento da aplicação.
+Guarda informações de 0 ou 1 apenas, e o endereçamento de tudo
+
+WHILE
+Loop que significa "enquanto" e enquanto o que estiver no parenteses for verdadeiro, ele executa o que tem dentro das chaves {}
+cuidado pode resultar num loop infinito
+
+
+for
+
+Pode fazer um loop tanto em objetos quanto em uma quantidade determinada
+For em inglês significa "para"
+
+
+OBJETOS
+
+JSON é uma forma de representar objetos em forma de texto
